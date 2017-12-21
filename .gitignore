@@ -1,3 +1,9 @@
+*.cache
+*.pdb
+bin/debug/
+v15/
+*TemporaryGenerated*
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

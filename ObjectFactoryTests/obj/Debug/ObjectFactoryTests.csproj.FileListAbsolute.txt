@@ -1,0 +1,7 @@
+C:\Users\behannaje\Documents\Visual Studio 2017\Projects\ObjectFactoryTests\ObjectFactoryTests\bin\Debug\ObjectFactoryTests.exe.config
+C:\Users\behannaje\Documents\Visual Studio 2017\Projects\ObjectFactoryTests\ObjectFactoryTests\bin\Debug\ObjectFactoryTests.exe
+C:\Users\behannaje\Documents\Visual Studio 2017\Projects\ObjectFactoryTests\ObjectFactoryTests\bin\Debug\ObjectFactoryTests.pdb
+C:\Users\behannaje\Documents\Visual Studio 2017\Projects\ObjectFactoryTests\ObjectFactoryTests\obj\Debug\ObjectFactoryTests.csproj.CoreCompileInputs.cache
+C:\Users\behannaje\Documents\Visual Studio 2017\Projects\ObjectFactoryTests\ObjectFactoryTests\obj\Debug\ObjectFactoryTests.exe
+C:\Users\behannaje\Documents\Visual Studio 2017\Projects\ObjectFactoryTests\ObjectFactoryTests\obj\Debug\ObjectFactoryTests.pdb
+C:\Users\behannaje\Documents\Visual Studio 2017\Projects\ObjectFactoryTests\ObjectFactoryTests\obj\Debug\ObjectFactoryTests.csprojResolveAssemblyReference.cache
